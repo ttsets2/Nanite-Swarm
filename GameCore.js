@@ -2,7 +2,7 @@
 let enemyNumbers = 0;
 let enemyBulletSpeed = 0;
 let gameOverCheck = enemyNumbers;
-let difficulty = "Hard";
+let difficulty = "Medium";
 
 scoreCounter = 0;
 clickCounter = 0;
